@@ -6,3 +6,6 @@ Repository for different vanilla javascript key concepts than I can build upon a
 
 Just writing text to follow tutorial
 
+## Local Development
+
+1. Open index.html in your browser
